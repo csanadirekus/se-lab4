@@ -1,0 +1,3 @@
+# SINGLE: primary fails, ship does not try the secondary
+GT4500,10,1,10,0
+TORPEDO,SINGLE
