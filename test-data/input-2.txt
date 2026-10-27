@@ -1,0 +1,4 @@
+# SINGLE: stores alternate, second fire uses the failing secondary
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
